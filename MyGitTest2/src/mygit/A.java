@@ -7,5 +7,8 @@ public class A {
 		System.out.println("This is devB");
 		B b = new B();
 		b.say("A");
+		System.out.println("This is devC");
+		C c = new C();
+		c.say("A");
 	}
 }
